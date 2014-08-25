@@ -1,12 +1,12 @@
-<manifest alg="2" build="375" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1408942682634">
+<manifest alg="2" build="375" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1408943059319">
   <folder name="css">
     <file name="site_global.css" crc="426517801"/>
-    <file name="index.css" crc="112180619" ref="index"/>
+    <file name="index.css" crc="242796214" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4146222537" ref="index"/>
     <file name="museutils.js" crc="135030331" ref="index"/>
     <file name="jquery.watch.js" crc="377079819" ref="index"/>
   </folder>
-  <file name="index.html" crc="506824576" mt="1408942591550" redirect="false"/>
+  <file name="index.html" crc="356630972" mt="1408943019747" redirect="true"/>
 </manifest>
