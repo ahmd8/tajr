@@ -1,7 +1,7 @@
-.version.index /* version checker */
+.version._____________________ /* version checker */
 {
-	color: #00000D;
-	background-color: #1E04DA;
+	color: #000016;
+	background-color: #5DB18E;
 }
 
 .html
@@ -25,7 +25,7 @@
 #page_position_content
 {
 	margin-top: -9px;
-	padding-bottom: 387px;
+	padding-bottom: 77px;
 }
 
 #u107
@@ -235,6 +235,54 @@
 	z-index: 2;
 	margin-top: 13px;
 	height: 43px;
+}
+
+#pu156-10
+{
+	width: 0.01px;
+	margin-left: 41px;
+	margin-top: 73px;
+}
+
+#u156-10
+{
+	z-index: 31;
+	width: 721px;
+	min-height: 197px;
+	background-color: transparent;
+	direction: rtl;
+	text-align: right;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+}
+
+#u150
+{
+	z-index: 29;
+	width: 141px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 733px;
+}
+
+#u150_img
+{
+	padding-bottom: 1px;
+}
+
+#u157-4
+{
+	z-index: 41;
+	width: 879px;
+	min-height: 23px;
+	background-color: transparent;
+	direction: rtl;
+	text-align: right;
+	margin-left: 36px;
+	margin-top: 10px;
+	position: relative;
 }
 
 body

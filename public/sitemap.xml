@@ -7,6 +7,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://tajr.org/images/babil.jpg</loc>
+    <lastmod>2014-08-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://tajr.org/index.html</loc>
     <lastmod>2014-08-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -14,6 +20,12 @@
   </url>
   <url>
     <loc>http://tajr.org/%D8%B9%D9%86-%D8%AA%D8%A7%D8%AC%D8%B1.html</loc>
+    <lastmod>2014-08-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://tajr.org/%D9%83%D8%AA%D8%A8-%D9%85%D9%81%D9%8A%D8%AF%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9.html</loc>
     <lastmod>2014-08-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
