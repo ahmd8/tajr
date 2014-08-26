@@ -1,16 +1,17 @@
-<manifest alg="2" build="375" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1409051588618">
+<manifest alg="2" build="375" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1409052858427">
   <folder name="images">
     <file name="logo.png" crc="150761754" ref="index:عن-تاجر:كتب-مفيدة-في-التجارة"/>
     <file name="babil.jpg" crc="4012320877" ref="كتب-مفيدة-في-التجارة"/>
     <file name="personalmba.jpg" crc="3870406723" ref="كتب-مفيدة-في-التجارة"/>
     <file name="maqalat.jpg" crc="110723236" ref="كتب-مفيدة-في-التجارة"/>
+    <file name="ratebslaves.jpg" crc="478976364" ref="كتب-مفيدة-في-التجارة"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="426517801"/>
     <file name="index.css" crc="220071130" ref="index"/>
     <file name="master_a-master.css" crc="420024665" ref="index:عن-تاجر:كتب-مفيدة-في-التجارة"/>
     <file name="__-____.css" crc="220071130" ref="عن-تاجر"/>
-    <file name="___-_____-__-_______.css" crc="4079120787" ref="كتب-مفيدة-في-التجارة"/>
+    <file name="___-_____-__-_______.css" crc="4128057741" ref="كتب-مفيدة-في-التجارة"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4146222537" ref="index:عن-تاجر:كتب-مفيدة-في-التجارة"/>
@@ -22,5 +23,5 @@
   </folder>
   <file name="index.html" crc="4002968219" mt="1409028782761" redirect="true"/>
   <file name="عن-تاجر.html" crc="387474809" mt="1409028782763" redirect="true"/>
-  <file name="كتب-مفيدة-في-التجارة.html" crc="151928761" mt="1409051588041" redirect="true"/>
+  <file name="كتب-مفيدة-في-التجارة.html" crc="4148556328" mt="1409052857845" redirect="true"/>
 </manifest>
