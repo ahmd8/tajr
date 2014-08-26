@@ -1,4 +1,4 @@
-<manifest alg="2" build="375" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1409057928075">
+<manifest alg="2" build="375" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1409058027083">
   <folder name="images">
     <file name="logo.png" crc="150761754" ref="index:عن-تاجر:كتب-مفيدة-في-التجارة:ثقافة-مالية:خبراء"/>
     <file name="babil.jpg" crc="4012320877" ref="كتب-مفيدة-في-التجارة"/>
@@ -13,7 +13,7 @@
     <file name="__-____.css" crc="531102340" ref="عن-تاجر"/>
     <file name="___-_____-__-_______.css" crc="501625300" ref="كتب-مفيدة-في-التجارة"/>
     <file name="_____-_____.css" crc="358267943" ref="ثقافة-مالية"/>
-    <file name="_____.css" crc="4134979523" ref="خبراء"/>
+    <file name="_____.css" crc="4171429522" ref="خبراء"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4146222537" ref="index:عن-تاجر:كتب-مفيدة-في-التجارة:ثقافة-مالية:خبراء"/>
@@ -27,5 +27,5 @@
   <file name="عن-تاجر.html" crc="410375398" mt="1409057917574" redirect="true"/>
   <file name="كتب-مفيدة-في-التجارة.html" crc="296087266" mt="1409057917575" redirect="true"/>
   <file name="ثقافة-مالية.html" crc="186662222" mt="1409057917577" redirect="true"/>
-  <file name="خبراء.html" crc="223626072" mt="1409057917578" redirect="true"/>
+  <file name="خبراء.html" crc="240604626" mt="1409058019626" redirect="true"/>
 </manifest>
