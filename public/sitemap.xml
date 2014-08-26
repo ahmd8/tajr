@@ -66,4 +66,10 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
+  <url>
+    <loc>http://tajr.org/%D8%A7%D9%84%D8%AA%D9%85%D9%88%D9%8A%D9%84.html</loc>
+    <lastmod>2014-08-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
 </urlset>
