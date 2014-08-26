@@ -1,7 +1,7 @@
-.version.index /* version checker */
+.version.untitled_2 /* version checker */
 {
-	color: #0000E0;
-	background-color: #65DA29;
+	color: #0000FA;
+	background-color: #43FC60;
 }
 
 .html
@@ -13,12 +13,11 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 499.5000000000001px;
+	min-height: 500px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -26,7 +25,7 @@
 #page_position_content
 {
 	margin-top: -36px;
-	padding-bottom: 163px;
+	padding-bottom: 437px;
 }
 
 #u87
@@ -39,29 +38,6 @@
 {
 	z-index: 2;
 	height: 99px;
-}
-
-#u74-9
-{
-	z-index: 3;
-	width: 497px;
-	background-color: transparent;
-	text-align: center;
-	margin-left: 232px;
-	margin-top: 100px;
-	position: relative;
-}
-
-#u74-2
-{
-	font-size: 72px;
-	line-height: 86px;
-}
-
-#u74-4,#u74-5,#u74-7
-{
-	font-size: 24px;
-	line-height: 29px;
 }
 
 body

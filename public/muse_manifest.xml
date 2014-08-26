@@ -1,12 +1,15 @@
-<manifest alg="2" build="375" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1408943142156">
+<manifest alg="2" build="375" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1409022564486">
   <folder name="css">
     <file name="site_global.css" crc="426517801"/>
-    <file name="index.css" crc="4081429134" ref="index"/>
+    <file name="index.css" crc="3764771369" ref="index"/>
+    <file name="master_a-master.css" crc="63162731" ref="untitled-2:index"/>
+    <file name="untitled-2.css" crc="4198759520" ref="untitled-2"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4146222537" ref="index"/>
-    <file name="museutils.js" crc="135030331" ref="index"/>
-    <file name="jquery.watch.js" crc="377079819" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="4146222537" ref="index:untitled-2"/>
+    <file name="museutils.js" crc="135030331" ref="index:untitled-2"/>
+    <file name="jquery.watch.js" crc="377079819" ref="index:untitled-2"/>
   </folder>
-  <file name="index.html" crc="3816273181" mt="1408943133851" redirect="true"/>
+  <file name="index.html" crc="32895139" mt="1409021837908" redirect="true"/>
+  <file name="untitled-2.html" crc="231237700" mt="1409021837909" redirect="true"/>
 </manifest>
