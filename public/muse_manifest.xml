@@ -1,18 +1,20 @@
-<manifest alg="2" build="375" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1409024002802">
+<manifest alg="2" build="375" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1409027155283">
   <folder name="images">
-    <file name="logo.png" crc="150761754" ref="index:untitled-2"/>
+    <file name="logo.png" crc="150761754" ref="index:عن-تاجر"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="426517801"/>
-    <file name="index.css" crc="4182189384" ref="index"/>
-    <file name="master_a-master.css" crc="4163159023" ref="untitled-2:index"/>
-    <file name="untitled-2.css" crc="4182189384" ref="untitled-2"/>
+    <file name="index.css" crc="4066667468" ref="index"/>
+    <file name="master_a-master.css" crc="3852938049" ref="index:عن-تاجر"/>
+    <file name="__-____.css" crc="4066667468" ref="عن-تاجر"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4146222537" ref="index:untitled-2"/>
-    <file name="museutils.js" crc="135030331" ref="index:untitled-2"/>
-    <file name="jquery.watch.js" crc="377079819" ref="index:untitled-2"/>
+    <file name="jquery-1.8.3.min.js" crc="4146222537" ref="index:عن-تاجر"/>
+    <file name="museutils.js" crc="135030331" ref="index:عن-تاجر"/>
+    <file name="jquery.watch.js" crc="377079819" ref="index:عن-تاجر"/>
+    <file name="jquery.musemenu.js" crc="104492196" ref="index:عن-تاجر"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:عن-تاجر"/>
   </folder>
-  <file name="index.html" crc="3786328679" mt="1409024002474" redirect="true"/>
-  <file name="untitled-2.html" crc="302565428" mt="1409024002476" redirect="true"/>
+  <file name="index.html" crc="4014897209" mt="1409027127443" redirect="true"/>
+  <file name="عن-تاجر.html" crc="258650838" mt="1409027127444" redirect="true"/>
 </manifest>
