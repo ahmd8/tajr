@@ -13,6 +13,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://tajr.org/images/personalmba.jpg</loc>
+    <lastmod>2014-08-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://tajr.org/index.html</loc>
     <lastmod>2014-08-26</lastmod>
     <changefreq>weekly</changefreq>
