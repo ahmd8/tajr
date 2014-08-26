@@ -1,7 +1,7 @@
 .version._____________________ /* version checker */
 {
-	color: #0000F1;
-	background-color: #8FD8C2;
+	color: #0000F3;
+	background-color: #227193;
 }
 
 .html
@@ -455,6 +455,29 @@
 {
 	color: #FFFFFF;
 	visibility: inherit;
+}
+
+#u197-4
+{
+	z-index: 66;
+	width: 879px;
+	min-height: 23px;
+	background-color: transparent;
+	direction: rtl;
+	text-align: right;
+	margin-left: 34px;
+	margin-top: 42px;
+	position: relative;
+}
+
+#u191
+{
+	z-index: 64;
+	width: 140px;
+	background-color: transparent;
+	margin-left: 774px;
+	margin-top: 11px;
+	position: relative;
 }
 
 body
