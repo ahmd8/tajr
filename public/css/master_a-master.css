@@ -1,8 +1,31 @@
+#u107
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u104-4
+{
+	background-color: transparent;
+	line-height: 29px;
+	direction: rtl;
+	font-size: 24px;
+	text-align: right;
+	position: relative;
+}
+
+#u98
+{
+	background-color: transparent;
+	position: relative;
+}
+
 #u87
 {
-	border-width: 1px;
-	border-style: solid;
-	border-color: #000000;
-	background-color: #5DC6FF;
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
 }
 
