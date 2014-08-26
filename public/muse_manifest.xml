@@ -1,4 +1,4 @@
-<manifest alg="2" build="375" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1409061001146">
+<manifest alg="2" build="375" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1409061313523">
   <folder name="images">
     <file name="logo.png" crc="150761754" ref="index:عن-تاجر:كتب-مفيدة-في-التجارة:ثقافة-مالية:خبراء:عالم-التجارة:التمويل"/>
     <file name="babil.jpg" crc="4012320877" ref="كتب-مفيدة-في-التجارة"/>
@@ -14,9 +14,9 @@
     <file name="___-_____-__-_______.css" crc="3791871647" ref="كتب-مفيدة-في-التجارة"/>
     <file name="_____-_____.css" crc="4230672113" ref="ثقافة-مالية"/>
     <file name="_____.css" crc="119089556" ref="خبراء"/>
-    <file name="master_a-master-____-_______.css" crc="4095339043" ref="عالم-التجارة:التمويل"/>
-    <file name="____-_______.css" crc="467406845" ref="عالم-التجارة"/>
-    <file name="_______.css" crc="3884583272" ref="التمويل"/>
+    <file name="master_a-master-____-_______.css" crc="4085624509" ref="عالم-التجارة:التمويل"/>
+    <file name="____-_______.css" crc="3894001916" ref="عالم-التجارة"/>
+    <file name="_______.css" crc="453127034" ref="التمويل"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4146222537" ref="index:عن-تاجر:كتب-مفيدة-في-التجارة:ثقافة-مالية:خبراء:عالم-التجارة:التمويل"/>
@@ -31,6 +31,6 @@
   <file name="كتب-مفيدة-في-التجارة.html" crc="4068225141" mt="1409059696374" redirect="true"/>
   <file name="ثقافة-مالية.html" crc="3926273754" mt="1409059696375" redirect="true"/>
   <file name="خبراء.html" crc="3982230906" mt="1409059696377" redirect="true"/>
-  <file name="عالم-التجارة.html" crc="4159518962" mt="1409060990296" redirect="true"/>
-  <file name="التمويل.html" crc="303514289" mt="1409060990297" redirect="true"/>
+  <file name="عالم-التجارة.html" crc="27924787" mt="1409061290395" redirect="true"/>
+  <file name="التمويل.html" crc="3820749805" mt="1409061290396" redirect="true"/>
 </manifest>
