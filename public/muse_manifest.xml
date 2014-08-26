@@ -1,6 +1,6 @@
-<manifest alg="2" build="375" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1409052858427">
+<manifest alg="2" build="375" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1409053299038">
   <folder name="images">
-    <file name="logo.png" crc="150761754" ref="index:عن-تاجر:كتب-مفيدة-في-التجارة"/>
+    <file name="logo.png" crc="150761754" ref="index:عن-تاجر:كتب-مفيدة-في-التجارة:ثقافة-مالية"/>
     <file name="babil.jpg" crc="4012320877" ref="كتب-مفيدة-في-التجارة"/>
     <file name="personalmba.jpg" crc="3870406723" ref="كتب-مفيدة-في-التجارة"/>
     <file name="maqalat.jpg" crc="110723236" ref="كتب-مفيدة-في-التجارة"/>
@@ -8,20 +8,22 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="426517801"/>
-    <file name="index.css" crc="220071130" ref="index"/>
-    <file name="master_a-master.css" crc="420024665" ref="index:عن-تاجر:كتب-مفيدة-في-التجارة"/>
-    <file name="__-____.css" crc="220071130" ref="عن-تاجر"/>
-    <file name="___-_____-__-_______.css" crc="4128057741" ref="كتب-مفيدة-في-التجارة"/>
+    <file name="index.css" crc="4099653589" ref="index"/>
+    <file name="master_a-master.css" crc="3957252835" ref="index:عن-تاجر:كتب-مفيدة-في-التجارة:ثقافة-مالية"/>
+    <file name="__-____.css" crc="4099653589" ref="عن-تاجر"/>
+    <file name="___-_____-__-_______.css" crc="4150299903" ref="كتب-مفيدة-في-التجارة"/>
+    <file name="_____-_____.css" crc="131935967" ref="ثقافة-مالية"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4146222537" ref="index:عن-تاجر:كتب-مفيدة-في-التجارة"/>
-    <file name="museutils.js" crc="135030331" ref="index:عن-تاجر:كتب-مفيدة-في-التجارة"/>
-    <file name="jquery.watch.js" crc="377079819" ref="index:عن-تاجر:كتب-مفيدة-في-التجارة"/>
-    <file name="jquery.musemenu.js" crc="104492196" ref="index:عن-تاجر:كتب-مفيدة-في-التجارة"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:عن-تاجر:كتب-مفيدة-في-التجارة"/>
+    <file name="jquery-1.8.3.min.js" crc="4146222537" ref="index:عن-تاجر:كتب-مفيدة-في-التجارة:ثقافة-مالية"/>
+    <file name="museutils.js" crc="135030331" ref="index:عن-تاجر:كتب-مفيدة-في-التجارة:ثقافة-مالية"/>
+    <file name="jquery.watch.js" crc="377079819" ref="index:عن-تاجر:كتب-مفيدة-في-التجارة:ثقافة-مالية"/>
+    <file name="jquery.musemenu.js" crc="104492196" ref="index:عن-تاجر:كتب-مفيدة-في-التجارة:ثقافة-مالية"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:عن-تاجر:كتب-مفيدة-في-التجارة:ثقافة-مالية"/>
     <file name="pie.js" crc="3827607177" ref="كتب-مفيدة-في-التجارة"/>
   </folder>
-  <file name="index.html" crc="4002968219" mt="1409028782761" redirect="true"/>
-  <file name="عن-تاجر.html" crc="387474809" mt="1409028782763" redirect="true"/>
-  <file name="كتب-مفيدة-في-التجارة.html" crc="4148556328" mt="1409052857845" redirect="true"/>
+  <file name="index.html" crc="218228619" mt="1409053290476" redirect="true"/>
+  <file name="عن-تاجر.html" crc="4146946216" mt="1409053290477" redirect="true"/>
+  <file name="كتب-مفيدة-في-التجارة.html" crc="4065561577" mt="1409053290478" redirect="true"/>
+  <file name="ثقافة-مالية.html" crc="3784746294" mt="1409053290480" redirect="true"/>
 </manifest>
