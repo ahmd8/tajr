@@ -1,8 +1,8 @@
 #u104-4
 {
 	background-color: transparent;
-	line-height: 29px;
 	direction: rtl;
+	line-height: 29px;
 	font-size: 24px;
 	text-align: right;
 	position: relative;
@@ -17,14 +17,6 @@
 
 #u87_align_to_page
 {
-	position: relative;
-}
-
-#u107,#menuu108
-{
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
 	position: relative;
 }
 
@@ -204,5 +196,13 @@
 .MenuItem /* unifiedNavBar */
 {
 	cursor: pointer;
+}
+
+#u107,#menuu108,#u432
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
 }
 

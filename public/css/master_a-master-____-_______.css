@@ -1,8 +1,8 @@
 #u285-4
 {
 	background-color: transparent;
-	line-height: 29px;
 	direction: rtl;
+	line-height: 29px;
 	font-size: 24px;
 	text-align: right;
 	position: relative;
@@ -187,14 +187,6 @@
 	cursor: pointer;
 }
 
-#u284,#menuu288,#menuu334
-{
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-}
-
 #u380
 {
 	background-color: #4085DE;
@@ -338,6 +330,14 @@
 	color: #FFFFFF;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u284,#menuu288,#menuu334,#u434
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
 	position: relative;
 }
 

@@ -1,6 +1,6 @@
-<manifest alg="2" build="375" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1409061313523">
+<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1409370518186">
   <folder name="images">
-    <file name="logo.png" crc="150761754" ref="index:عن-تاجر:كتب-مفيدة-في-التجارة:ثقافة-مالية:خبراء:عالم-التجارة:التمويل"/>
+    <file name="logo.png" crc="150761754" ref="index:عن-تاجر:كتب-مفيدة-في-التجارة:ثقافة-مالية:خبراء:عالم-التجارة:التمويل:تجارة-الأسهم"/>
     <file name="babil.jpg" crc="4012320877" ref="كتب-مفيدة-في-التجارة"/>
     <file name="personalmba.jpg" crc="3870406723" ref="كتب-مفيدة-في-التجارة"/>
     <file name="maqalat.jpg" crc="110723236" ref="كتب-مفيدة-في-التجارة"/>
@@ -8,29 +8,31 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="426517801"/>
-    <file name="index.css" crc="3937718286" ref="index"/>
-    <file name="master_a-master.css" crc="3773013577" ref="index:عن-تاجر:كتب-مفيدة-في-التجارة:ثقافة-مالية:خبراء"/>
-    <file name="__-____.css" crc="3937718286" ref="عن-تاجر"/>
-    <file name="___-_____-__-_______.css" crc="3791871647" ref="كتب-مفيدة-في-التجارة"/>
-    <file name="_____-_____.css" crc="4230672113" ref="ثقافة-مالية"/>
-    <file name="_____.css" crc="119089556" ref="خبراء"/>
-    <file name="master_a-master-____-_______.css" crc="4085624509" ref="عالم-التجارة:التمويل"/>
-    <file name="____-_______.css" crc="3894001916" ref="عالم-التجارة"/>
-    <file name="_______.css" crc="453127034" ref="التمويل"/>
+    <file name="index.css" crc="290736543" ref="index"/>
+    <file name="master_a-master.css" crc="506255201" ref="index:عن-تاجر:كتب-مفيدة-في-التجارة:ثقافة-مالية:خبراء:تجارة-الأسهم"/>
+    <file name="__-____.css" crc="290736543" ref="عن-تاجر"/>
+    <file name="___-_____-__-_______.css" crc="505557390" ref="كتب-مفيدة-في-التجارة"/>
+    <file name="_____-_____.css" crc="21148417" ref="ثقافة-مالية"/>
+    <file name="_____.css" crc="4230208380" ref="خبراء"/>
+    <file name="master_a-master-____-_______.css" crc="292836562" ref="عالم-التجارة:التمويل"/>
+    <file name="____-_______.css" crc="404086538" ref="عالم-التجارة"/>
+    <file name="_______.css" crc="433197184" ref="التمويل"/>
+    <file name="_____-______.css" crc="290736543" ref="تجارة-الأسهم"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4146222537" ref="index:عن-تاجر:كتب-مفيدة-في-التجارة:ثقافة-مالية:خبراء:عالم-التجارة:التمويل"/>
-    <file name="museutils.js" crc="135030331" ref="index:عن-تاجر:كتب-مفيدة-في-التجارة:ثقافة-مالية:خبراء:عالم-التجارة:التمويل"/>
-    <file name="jquery.watch.js" crc="377079819" ref="index:عن-تاجر:كتب-مفيدة-في-التجارة:ثقافة-مالية:خبراء:عالم-التجارة:التمويل"/>
-    <file name="jquery.musemenu.js" crc="104492196" ref="index:عن-تاجر:كتب-مفيدة-في-التجارة:ثقافة-مالية:خبراء:عالم-التجارة:التمويل"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:عن-تاجر:كتب-مفيدة-في-التجارة:ثقافة-مالية:خبراء:عالم-التجارة:التمويل"/>
+    <file name="jquery-1.8.3.min.js" crc="4021225061" ref="index:عن-تاجر:كتب-مفيدة-في-التجارة:ثقافة-مالية:خبراء:عالم-التجارة:التمويل:تجارة-الأسهم"/>
+    <file name="museutils.js" crc="4136605575" ref="index:عن-تاجر:كتب-مفيدة-في-التجارة:ثقافة-مالية:خبراء:عالم-التجارة:التمويل:تجارة-الأسهم"/>
+    <file name="jquery.watch.js" crc="172956391" ref="index:عن-تاجر:كتب-مفيدة-في-التجارة:ثقافة-مالية:خبراء:عالم-التجارة:التمويل:تجارة-الأسهم"/>
+    <file name="jquery.musemenu.js" crc="4009181048" ref="index:عن-تاجر:كتب-مفيدة-في-التجارة:ثقافة-مالية:خبراء:عالم-التجارة:التمويل:تجارة-الأسهم"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:عن-تاجر:كتب-مفيدة-في-التجارة:ثقافة-مالية:خبراء:عالم-التجارة:التمويل:تجارة-الأسهم"/>
     <file name="pie.js" crc="3827607177" ref="كتب-مفيدة-في-التجارة"/>
   </folder>
-  <file name="index.html" crc="319214349" mt="1409059696372" redirect="true"/>
-  <file name="عن-تاجر.html" crc="3828960974" mt="1409059696373" redirect="true"/>
-  <file name="كتب-مفيدة-في-التجارة.html" crc="4068225141" mt="1409059696374" redirect="true"/>
-  <file name="ثقافة-مالية.html" crc="3926273754" mt="1409059696375" redirect="true"/>
-  <file name="خبراء.html" crc="3982230906" mt="1409059696377" redirect="true"/>
-  <file name="عالم-التجارة.html" crc="27924787" mt="1409061290395" redirect="true"/>
-  <file name="التمويل.html" crc="3820749805" mt="1409061290396" redirect="true"/>
+  <file name="index.html" crc="96526008" mt="1409370478196" redirect="true"/>
+  <file name="عن-تاجر.html" crc="462464147" mt="1409370478197" redirect="true"/>
+  <file name="كتب-مفيدة-في-التجارة.html" crc="62502312" mt="1409370478198" redirect="true"/>
+  <file name="ثقافة-مالية.html" crc="129366288" mt="1409370478199" redirect="true"/>
+  <file name="خبراء.html" crc="4057415781" mt="1409370478200" redirect="true"/>
+  <file name="عالم-التجارة.html" crc="4256270759" mt="1409370500374" redirect="true"/>
+  <file name="التمويل.html" crc="4253960615" mt="1409370500375" redirect="true"/>
+  <file name="تجارة-الأسهم.html" crc="333043263" mt="1409370478201" redirect="true"/>
 </manifest>

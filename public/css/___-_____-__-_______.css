@@ -1,7 +1,7 @@
 .version._____________________ /* version checker */
 {
-	color: #0000E2;
-	background-color: #035E9F;
+	color: #00001E;
+	background-color: #22318E;
 }
 
 .html
@@ -26,7 +26,6 @@
 #page_position_content
 {
 	margin-top: -9px;
-	padding-bottom: 62px;
 }
 
 #u107
@@ -384,7 +383,7 @@
 
 #u183-4
 {
-	z-index: 65;
+	z-index: 66;
 	width: 879px;
 	min-height: 23px;
 	background-color: transparent;
@@ -404,7 +403,7 @@
 
 #u150
 {
-	z-index: 47;
+	z-index: 48;
 	width: 141px;
 	background-color: transparent;
 	position: relative;
@@ -419,7 +418,7 @@
 
 #u156-10
 {
-	z-index: 49;
+	z-index: 50;
 	width: 721px;
 	min-height: 197px;
 	background-color: transparent;
@@ -432,7 +431,7 @@
 
 #buttonu186
 {
-	z-index: 72;
+	z-index: 73;
 	width: 162px;
 	border-color: #787878;
 	background-color: #00AFA5;
@@ -461,7 +460,7 @@
 
 #u187-4
 {
-	z-index: 73;
+	z-index: 74;
 	width: 162px;
 	min-height: 23px;
 	background-color: transparent;
@@ -491,7 +490,7 @@
 
 #u157-4
 {
-	z-index: 59;
+	z-index: 60;
 	width: 879px;
 	min-height: 23px;
 	background-color: transparent;
@@ -510,7 +509,7 @@
 
 #u177
 {
-	z-index: 63;
+	z-index: 64;
 	width: 141px;
 	background-color: transparent;
 	position: relative;
@@ -525,7 +524,7 @@
 
 #u184-3
 {
-	z-index: 69;
+	z-index: 70;
 	width: 721px;
 	min-height: 197px;
 	background-color: transparent;
@@ -537,7 +536,7 @@
 
 #buttonu189
 {
-	z-index: 77;
+	z-index: 78;
 	width: 162px;
 	border-color: #787878;
 	background-color: #00A297;
@@ -566,7 +565,7 @@
 
 #u190-4
 {
-	z-index: 78;
+	z-index: 79;
 	width: 162px;
 	min-height: 23px;
 	background-color: transparent;
@@ -604,7 +603,7 @@
 
 #u197-4
 {
-	z-index: 84;
+	z-index: 85;
 	width: 879px;
 	min-height: 23px;
 	background-color: transparent;
@@ -617,7 +616,7 @@
 
 #u191
 {
-	z-index: 82;
+	z-index: 83;
 	width: 140px;
 	background-color: transparent;
 	margin-left: 774px;
@@ -627,7 +626,7 @@
 
 #u204-4
 {
-	z-index: 90;
+	z-index: 91;
 	width: 879px;
 	min-height: 23px;
 	background-color: transparent;
@@ -640,12 +639,21 @@
 
 #u198
 {
-	z-index: 88;
+	z-index: 89;
 	width: 141px;
 	background-color: transparent;
 	margin-left: 773px;
 	margin-top: 4px;
 	position: relative;
+}
+
+#u432
+{
+	z-index: 47;
+	width: 200px;
+	min-height: 16px;
+	margin-left: 407px;
+	margin-top: 46px;
 }
 
 body

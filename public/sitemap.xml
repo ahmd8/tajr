@@ -2,73 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://tajr.org/images/logo.png</loc>
-    <lastmod>2014-08-26</lastmod>
+    <lastmod>2014-08-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://tajr.org/images/babil.jpg</loc>
-    <lastmod>2014-08-26</lastmod>
+    <lastmod>2014-08-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://tajr.org/images/personalmba.jpg</loc>
-    <lastmod>2014-08-26</lastmod>
+    <lastmod>2014-08-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://tajr.org/images/maqalat.jpg</loc>
-    <lastmod>2014-08-26</lastmod>
+    <lastmod>2014-08-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://tajr.org/images/ratebslaves.jpg</loc>
-    <lastmod>2014-08-26</lastmod>
+    <lastmod>2014-08-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://tajr.org/index.html</loc>
-    <lastmod>2014-08-26</lastmod>
+    <lastmod>2014-08-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://tajr.org/%D8%B9%D9%86-%D8%AA%D8%A7%D8%AC%D8%B1.html</loc>
-    <lastmod>2014-08-26</lastmod>
+    <lastmod>2014-08-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://tajr.org/%D9%83%D8%AA%D8%A8-%D9%85%D9%81%D9%8A%D8%AF%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9.html</loc>
-    <lastmod>2014-08-26</lastmod>
+    <lastmod>2014-08-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://tajr.org/%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D9%85%D8%A7%D9%84%D9%8A%D8%A9.html</loc>
-    <lastmod>2014-08-26</lastmod>
+    <lastmod>2014-08-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://tajr.org/%D8%AE%D8%A8%D8%B1%D8%A7%D8%A1.html</loc>
-    <lastmod>2014-08-26</lastmod>
+    <lastmod>2014-08-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://tajr.org/%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9.html</loc>
-    <lastmod>2014-08-26</lastmod>
+    <lastmod>2014-08-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://tajr.org/%D8%A7%D9%84%D8%AA%D9%85%D9%88%D9%8A%D9%84.html</loc>
-    <lastmod>2014-08-26</lastmod>
+    <lastmod>2014-08-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://tajr.org/%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D8%B3%D9%87%D9%85.html</loc>
+    <lastmod>2014-08-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
